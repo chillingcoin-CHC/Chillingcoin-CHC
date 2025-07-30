@@ -12,7 +12,7 @@
 
 - 🌍 [Official Website](https://chillingcoin.com)
 - 📄 [CHC Whitepaper](https://chillingcoin.gitbook.io/tokenomics/)
-- 🧊 [Staking dApp]((https://chc-staking-dapp.vercel.app))
+- 🧊 [Staking dApp](https://chc-staking-dapp.vercel.app)]
 - 🖼️ [NFT Mint Page](https://chillingcoin-chc.github.io/CHC-NFT-Mint/) 
 - 🔁 [Circulating Supply API](https://chillingcoin.com/v1/supply.json)
 - 🧠 [GeckoTerminal Tracker]([https://www.geckoterminal.com/bsc/pools/0x349509b01de1874c63e36877d94ccbb76d0b2019)
