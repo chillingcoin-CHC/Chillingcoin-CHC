@@ -11,7 +11,7 @@
 ## 🔗 Useful Links
 
 - 🌍 [Official Website](https://chillingcoin.com)
-- 📄 [CHC Whitepaper]((https://chilling-coin.gitbook.io/chc-whitepaper/))
+- 📄 [CHC Whitepaper](https://chilling-coin.gitbook.io/chc-whitepaper/)]
 - 🧊 [Staking dApp](https://chc-staking-dapp.vercel.app)]
 - 🖼️ [NFT Mint Page](https://chillingcoin-chc.github.io/CHC-NFT-Mint/) 
 - 🔁 [Circulating Supply API](https://chillingcoin.com/v1/supply.json)
